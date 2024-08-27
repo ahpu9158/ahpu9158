@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-[HELLO]
+##GO READ
+![HELLO](https://github.com/ahpu9158/ahpu9158/blob/main/Screenshot%202024-08-26%20144307.png)
 
 <!--
 **ahpu9158/ahpu9158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
