@@ -1,5 +1,4 @@
-## Hi there 👋
-##GO READ
+## GO READ
 ![HELLO](https://github.com/ahpu9158/ahpu9158/blob/main/Screenshot%202024-08-26%20144307.png)
 
 <!--
