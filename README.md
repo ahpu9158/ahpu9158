@@ -1,7 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahpu9158)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-Here are some ideas to get you started:
 - 🔭 I’m currently learning software development and data structures.
 - 🌱 Exploring cybersecurity and ethical hacking.
 - 🎨 I’m an illustrator and comic writer—check out my work below!
