@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahpu9158)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 - 🔭 I’m currently learning software development and data structures.
 - 🌱 Exploring cybersecurity and ethical hacking.
